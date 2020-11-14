@@ -8,7 +8,7 @@ LTC LMrLZNWGYK3kMHvyioBqZdXYWE3pKj7xZX
 IP address:Port CountryCode-Anonymity(Noa/Anm/Hia)-SSL_support(S)-Google_passed(+)
 
 181.78.11.93:3128 CO-N - 
-36.72.83.222:8080 ID-H - 
+36.72.83.222:8080 ID-H -    KONTOLLLL
 207.74.82.103:3128 US-N + 
 81.12.119.169:8080 IR-H! - 
 187.6.108.42:8080 BR-N - 
